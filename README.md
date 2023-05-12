@@ -1,2 +1,5 @@
-# prototype
-Figure how to track information about sourcing product and handling waste
+# Prototype
+
+Figuring out collectively how to share and manage information
+
+[Sourcing](https://github.com/AvocadoCoop/prototype/blob/main/sourcing.md)
