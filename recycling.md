@@ -8,6 +8,9 @@ REEP Green manages a [map](https://reepgreen.ca/exploring-the-circular-economy-i
 
 ## Notes on recycling specific items in KW
 [Waste Whiz](https://www.regionofwaterloo.ca/en/living-here/the-waste-whiz.aspx) works fairly well.
+
+If you really can't figure something out, email [waste@regionofwaterloo.ca](mailto:waste@regionofwaterloo.ca).
+
 - Leave lids on plastic bottles with plastic caps.
 - Remove metal lids from glass bottles.
 - Tape must be removed from cardboard boxes.
