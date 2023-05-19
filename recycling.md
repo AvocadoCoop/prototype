@@ -11,7 +11,7 @@ REEP Green manages a [map](https://reepgreen.ca/exploring-the-circular-economy-i
 
 If you really can't figure something out, email [waste@regionofwaterloo.ca](mailto:waste@regionofwaterloo.ca).
 
-- Leave lids on plastic bottles with plastic caps.
-- Remove metal lids from glass bottles.
-- Tape must be removed from cardboard boxes.
-- Staples do not need to be removed from paper.
+- Leave lids on plastic bottles with plastic caps. Last verified 2024-05-19.
+- Remove metal lids from glass bottles. Last verified 2024-05-19.
+- Tape must be removed from cardboard boxes. Last verified 2021-02-16.
+- Staples do not need to be removed from paper. Last verified 2021-02-16.
