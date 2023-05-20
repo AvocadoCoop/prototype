@@ -1,9 +1,3 @@
----
-layout: page
-title: Sourcing Products
-last_verified: 2023-05-18
----
-
 # Sourcing Products
 
 Always regional, this information is for Waterloo Region in Ontario Canada
