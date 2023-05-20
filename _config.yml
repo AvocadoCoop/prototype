@@ -27,6 +27,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AvocadoCoop
 destination: ../html/
 
+# Required for github pages
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 plugins:
   - jekyll-optional-front-matter
 
