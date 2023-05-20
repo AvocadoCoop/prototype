@@ -22,7 +22,7 @@ title: Avocado coop
 # email: your-email@example.com
 description: >- # (start of multiline string)
   Figuring out collectively how to share and manage information.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "avocado-prototype" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AvocadoCoop
 destination: ../html/
