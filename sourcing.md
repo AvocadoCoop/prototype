@@ -22,7 +22,7 @@ Con:
 - Cleaning power
 
 
-Full Circle Foods has bulk laundyr powder
+Full Circle Foods has bulk laundry powder
 
 Pros:
 - Likely inexpensive
@@ -38,12 +38,12 @@ Ideally you want something which can handle grease, organics (blood), and grass
 
 Sunlight Bar
 
-I think this is just a soap so it will handle tough grease stans but no much else
+I think this is just a soap so it will handle tough grease stans but not much else
 
 Full Circle has something... it isn't great
 
 
-### Toliet Bowl Cleaning
+### Toilet Bowl Cleaning
 
 Nature Clean makes strips as well
 
@@ -54,11 +54,11 @@ Con:
 - Cleaning under the rim requires more scrubbing
 
 
-There are silcon toliet brushes
+There are silicon toilet brushes
 
 
 ## Compost
 
-### Paper bin linear
+### Paper bin liner
 
-The plain paper bin linear from bag 2 earth are hard to find. Home Hardware caries them. You can ask for a whole box but the price doesn't change.
+The plain paper bin liner from bag 2 earth are hard to find. Home Hardware caries them. You can ask for a whole box but the price doesn't change.
